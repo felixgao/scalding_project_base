@@ -1,0 +1,4 @@
+ran the following command before coding
+
+mkdir -p src/test/{scala,java,resources}
+mkdir -p src/main/{scala,java,resources}
